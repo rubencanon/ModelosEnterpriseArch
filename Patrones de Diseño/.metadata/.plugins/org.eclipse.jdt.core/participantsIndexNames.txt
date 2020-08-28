@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\595260143.index
+\idemia-tbk-webpay_PPE\src\main\resources
+E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4039708507.index
+\idemia-tbk-webpay_PPE\src\main\resources

@@ -1,0 +1,47 @@
+package before;
+
+public class FileSystemManager2 {
+
+	public static void main(String[] args) {
+		// Creación Directorio1
+		SomeClass objDir1 = new SomeClass();
+		SomeClass objDir2 = new SomeClass();
+
+		ProcessA threadA = new ProcessA(objDir1);
+		threadA.start();
+		ProcessB threadB = new ProcessB(objDir2);
+		threadB.start();
+	}
+}
+
+
+class ProcessA extends Thread {
+	SomeClass someObj;
+
+	public ProcessA(SomeClass someObj) {
+		this.someObj = someObj;
+	}
+
+	@Override
+	public void run() {
+
+		someObj.Method_A();
+		System.out.println("Excecute: Method_A()");
+
+	}
+}
+class ProcessB extends Thread {
+	SomeClass someObj;
+
+	public ProcessB(SomeClass someObj) {
+		this.someObj = someObj;
+	}
+
+	@Override
+	public void run() {
+
+		someObj.Method_B();
+		
+
+	}
+}

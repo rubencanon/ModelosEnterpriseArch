@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

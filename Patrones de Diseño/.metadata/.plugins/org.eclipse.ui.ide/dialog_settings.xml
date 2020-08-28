@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia\GuardSuspWorkshop"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia\GuardSuspTallerMantenimiento"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\TemplateMethodVar"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\StrategyVar"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\State"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia\RWlock"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia\GuardSusp"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ejemplos de Referencia\Ref3\Catalogo\Concurrentes\3\31\Fuente"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia\LockOrder"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia\CriticalSectionEarlyInitExercise"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Concurrencia"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\G.ParcialesOtrosSemestres\G.ParcialesOtrosSemestres\Parcial3_PatronesEstructurales\puntoCódigo"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\G.ParcialesOtrosSemestres\G.ParcialesOtrosSemestres\Parcial3_PatronesEstructurales\PARCIAL2020"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\Interpreter"/>
+			<item value="C:\Users\ASUS\Documents\MementoCommand\MementoCommand"/>
+			<item value="C:\Users\ASUS\Documents\MementoCommand\MementoCommand\src"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\observador"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\Mediador"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\memento"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\Command"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales\Comando"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\Bridge2020"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\ProxyV"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\CountingProxyNano"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\Fachada"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Comportamentales"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\ChOfRespVariant"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\ClassAdapter"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\FactoryMethod (1)"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\ClassAdapter202001"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\ObjAdapter202001"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales\Shapedecorator"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Estructurales"/>
+			<item value="E:\Oficina\PPE"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Colecciones\Visitador"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Colecciones\FlyweightStudentsV2"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Colecciones\FlyweightStudentsV1"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Colecciones"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\SingletonWithGUIEarlyInit"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\FactoryMethod"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\SingletonWithGUISafeThread"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\DeepCopy"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\BuilderV1"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Creacionales\AbstractFactory"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\IteratorExt"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\IteratorInterno"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\Composite"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\BuilderV2"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\ShallowCopyVar"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\DeepCopy"/>
+			<item value="E:\maestria\Patrones y Arquitectura de Software\Ingenieria inversa de Patrones\CODIGO FUENTE\AbstractFactory"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="TaskPropertiesDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="197"/>
+		<item key="DIALOG_Y_ORIGIN" value="335"/>
+		<item key="DIALOG_WIDTH" value="723"/>
+		<item key="DIALOG_HEIGHT" value="283"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

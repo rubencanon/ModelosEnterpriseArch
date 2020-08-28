@@ -1,0 +1,63 @@
+public class WorkshopSimulator {
+	public static void main(String[] args) {
+		Workshop parking = new Workshop();
+		new Vehicle("Vehículo1", parking);
+		new Vehicle("Vehículo2", parking);
+		new Vehicle("Vehículo3", parking);
+		new Vehicle("Vehículo4", parking);
+		new Vehicle("Vehículo5", parking);
+		new Vehicle("Vehículo6", parking);
+		new Vehicle("Vehículo7", parking);
+		new Vehicle("Vehículo8", parking);
+				
+	}
+
+}
+
+class Workshop {
+	// Assume 4 parking slots for simplicity
+	public static final int MAX_CAPACITY = 4;
+	private int inInspectionCarsTotal = 0;
+
+	public synchronized void inspect(String member) {
+		while (inInspectionCarsTotal >= MAX_CAPACITY) {
+			try {
+				System.out.println(" The workshop is full " + member + " has to wait ");
+				wait();
+			} catch (InterruptedException e) {
+				//
+			}
+		}
+		// precondition is true
+		System.out.println(member + " has finished inspection");
+		inInspectionCarsTotal = inInspectionCarsTotal + 1;
+	}
+
+	public synchronized void leave(String member) {
+		inInspectionCarsTotal = inInspectionCarsTotal - 1;
+		System.out.println(member + " has left, notify a waiting member");
+		notify();
+	}
+}
+
+class Vehicle extends Thread {
+	private Workshop workshop;
+	private String name;
+
+	Vehicle(String n, Workshop w) {
+		name = n;
+		workshop = w;
+		start();
+	}
+
+	public void run() {
+		System.out.println(name + " is ready to be Inspected");
+		workshop.inspect(name);
+		try {
+			sleep(800); //tiempo de inspeccion simulada
+		} catch (InterruptedException e) {
+			//
+		}
+		workshop.leave(name);
+	}
+}

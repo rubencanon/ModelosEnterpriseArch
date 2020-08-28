@@ -1,0 +1,21 @@
+package before;
+
+import java.util.concurrent.TimeUnit;
+
+public class FileSysUtil {
+
+  public void moveContents(Directory src, Directory dest) {
+    //synchronized (src) {
+     // synchronized (dest) {
+          try {
+			TimeUnit.SECONDS.sleep(1);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+        System.out.println("Contents Moved Successfully");
+      //}
+   // }
+  }
+}

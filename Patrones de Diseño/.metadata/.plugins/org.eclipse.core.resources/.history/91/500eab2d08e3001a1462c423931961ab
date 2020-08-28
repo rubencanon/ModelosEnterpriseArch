@@ -1,0 +1,14 @@
+package before;
+
+public class FileSysUtil {
+
+  public void moveContents(Directory src, Directory dest) {
+    synchronized (src) {
+      synchronized (dest) {
+          TimeUnit.SECONDS.sleep(5);
+
+        System.out.println("Contents Moved Successfully");
+      }
+    }
+  }
+}

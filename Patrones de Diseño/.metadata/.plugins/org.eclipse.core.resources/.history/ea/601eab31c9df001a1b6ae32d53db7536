@@ -1,0 +1,13 @@
+package after;
+
+
+public class FileSystemManager {
+
+	public static void main(String[] args) {
+		// Creación Directorio1
+		Directory sourceDir = new Directory("sourceDirectory");
+		Directory destinationDir = new Directory("destinationDirectory");
+
+	}
+
+}

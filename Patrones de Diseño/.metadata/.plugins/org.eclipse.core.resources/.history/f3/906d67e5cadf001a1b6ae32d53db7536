@@ -1,0 +1,21 @@
+package after;
+
+
+public class FileSystemManager {
+
+	public static void main(String[] args) {
+		// Creación Directorio1
+		Directory objDir1 = new Directory("sourceDirectory");
+		Directory objDir2 = new Directory("destinationDirectory");
+		
+		FileSysUtil threadA = new FileSysUtil();
+		
+		threadA.moveContents(objDir1, objDir2);
+
+		FileSysUtil threadB = new FileSysUtil();
+		
+		threadB.moveContents(objDir1, objDir2);
+
+	}
+
+}

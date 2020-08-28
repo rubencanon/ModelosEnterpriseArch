@@ -1,0 +1,594 @@
+
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: EL GRAN GATSBY No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: Trampa Infernal No se insertó en la categoría:  DVD
+Proceso AddCommand genero un error: El elemento: Trampa Infernal No se insertó en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand genero un error: El elemento: Samurai Cop No se insertó en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: EL GRAN GATSBY No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand genero un error: El elemento: Ivan Rebroff y la orquesta Osipov No se insertó en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: ORGULLO Y PREJUICIO No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand genero un error: El elemento: DON QUIJOTE DE LA MANCHA No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: Trampa Infernal No se insertó en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: 100 AÃOS DE SOLEDAD No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: EL GRAN GATSBY No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand genero un error: El elemento: Samurai Cop No se insertó en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: ORGULLO Y PREJUICIO No se insertó en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: ORGULLO Y PREJUICIO No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  CD
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand genero un error: El elemento: EL GRAN GATSBY No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  CD
+Proceso AddCommand genero un error: El elemento: Top 10 CD Latino 1950-1955 No se insertó en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Top 10 CD Latino 1950-1955 en la categoría:  CD
+Proceso AddCommand genero un error: El elemento: DON QUIJOTE DE LA MANCHA No se insertó en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  Libro
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand genero un error- El elemento: EL GRAN GATSBY No se eliminó de la categoría:  Libro
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  Libro
+Proceso AddCommand genero un error: El elemento: Trampa Infernal No se insertó en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  CD
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  Libro
+Proceso DeleteCommand genero un error- El elemento: Serie Top 10 por Tito Nieves No se eliminó de la categoría:  CD
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  CD
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  DVD
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  DVD
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Ivan Rebroff y la orquesta Osipov No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Alain Kounkou : Top Millenium No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand genero un error- El elemento: EL GRAN GATSBY No se eliminó de la categoría:  LIBRO
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: 100 AÃOS DE SOLEDAD No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Alain Kounkou : Top Millenium No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand genero un error- El elemento: EL GRAN GATSBY No se eliminó de la categoría:  LIBRO
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: 100 AÃOS DE SOLEDAD No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: CRIMEN Y CASTIGO No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: CRIMEN Y CASTIGO No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: Serie Top 10 por Tito Nieves No se eliminó de la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: 100 AÃOS DE SOLEDAD No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: EL GRAN GATSBY No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: 100 AÃOS DE SOLEDAD No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Alain Kounkou : Top Millenium No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Alain Kounkou : Top Millenium No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Top 10 LIBRO Latino 1950-1955 No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Hong Kong Butcher No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: Hong Kong Butcher No se eliminó de la categoría:  VHS
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: 100 AÃOS DE SOLEDAD No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Top 10 LIBRO Latino 1950-1955 No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand genero un error- El elemento: EL GRAN GATSBY No se eliminó de la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: EL GRAN GATSBY No se eliminó de la categoría:  LIBRO
+Proceso DeleteCommand genero un error- El elemento: EL GRAN GATSBY No se eliminó de la categoría:  LIBRO
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS
+Proceso AddCommand ha insertado el elemento: 100 AÃOS DE SOLEDAD en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: CRIMEN Y CASTIGO No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: CRIMEN Y CASTIGO No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: CRIMEN Y CASTIGO en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: ORGULLO Y PREJUICIO No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: ORGULLO Y PREJUICIO No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: ORGULLO Y PREJUICIO en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Alain Kounkou : Top Millenium en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Ivan Rebroff y la orquesta Osipov en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Top 10 LIBRO Latino 1950-1955 en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: DON QUIJOTE DE LA MANCHA en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso DeleteCommand el elemento: EL GRAN GATSBY Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Trampa Infernal en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  VHS
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand genero un error: El elemento: Serie Top 10 por Tito Nieves No se insertó en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Serie Top 10 por Tito Nieves en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: EL GRAN GATSBY en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Serie Top 10 por Tito Nieves Se eliminó de la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Hong Kong Butcher en la categoría:  LIBRO
+Proceso AddCommand ha insertado el elemento: Samurai Cop en la categoría:  LIBRO
+Proceso DeleteCommand el elemento: Hong Kong Butcher Se eliminó de la categoría:  VHS

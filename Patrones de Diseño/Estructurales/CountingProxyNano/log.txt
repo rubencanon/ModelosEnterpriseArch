@@ -1,0 +1,19 @@
+
+Iteration= 1 ::Time= 1034500 nanosegundos
+Iteration= 2 ::Time= 139800 nanosegundos
+Iteration= 3 ::Time= 66600 nanosegundos
+Iteration= 4 ::Time= 79000 nanosegundos
+Iteration= 1 ::Time= 13978273500 nanosegundos
+Iteration= 2 ::Time= 10567851800 nanosegundos
+Iteration= 1 ::Time= 6241458200 nanosegundos
+Iteration= 2 ::Time= 1834845600 nanosegundos
+Iteration= 3 ::Time= 1413768500 nanosegundos
+Iteration= 4 ::Time= 702558800 nanosegundos
+Iteration= 1 ::Time= 5981300 nanosegundos
+Iteration= 2 ::Time= 121100 nanosegundos
+Iteration= 3 ::Time= 110100 nanosegundos
+Iteration= 4 ::Time= 113200 nanosegundos
+Iteration= 1 ::Time= 14899500 nanosegundos
+Iteration= 2 ::Time= 166900 nanosegundos
+Iteration= 3 ::Time= 379700 nanosegundos
+Iteration= 4 ::Time= 179300 nanosegundos

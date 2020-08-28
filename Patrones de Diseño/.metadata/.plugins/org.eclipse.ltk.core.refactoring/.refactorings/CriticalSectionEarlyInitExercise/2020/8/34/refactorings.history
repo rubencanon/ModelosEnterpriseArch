@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;j&apos; in &apos;FileProcess.run()&apos; to &apos;muestra&apos;&#x0D;&#x0A;- Original project: &apos;CriticalSectionEarlyInitExercise&apos;&#x0D;&#x0A;- Original element: &apos;FileProcess.run().j&apos;&#x0D;&#x0A;- Renamed element: &apos;j&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;j&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/&lt;{ClientManager.java[FileProcess~run@j!473!481!477!477!I!0!false" name="muestra" references="true" stamp="1598107787874" version="1.0"/>
+</session>

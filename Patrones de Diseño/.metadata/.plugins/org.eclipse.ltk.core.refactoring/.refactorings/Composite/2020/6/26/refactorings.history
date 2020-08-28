@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;Patrones/src/colecciones.composite&apos;&#x0D;&#x0A;- Original project: &apos;Composite&apos;&#x0D;&#x0A;- Destination element: &apos;Patrones/src/colecciones.composite&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     FileComponent.java&#x0D;&#x0A;     FileSystemComponent.java&#x0D;&#x0A;     CompositeDemo.java&#x0D;&#x0A;     DirComponent.java&#x0D;&#x0A;     CompositeException.java" description="Copy compilation units" destination="=Patrones/src&lt;colecciones.composite" element1="/&lt;{FileComponent.java" element2="/&lt;{FileSystemComponent.java" element3="/&lt;{CompositeDemo.java" element4="/&lt;{DirComponent.java" element5="/&lt;{CompositeException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1593011052301" units="5" version="1.0"/>
+</session>

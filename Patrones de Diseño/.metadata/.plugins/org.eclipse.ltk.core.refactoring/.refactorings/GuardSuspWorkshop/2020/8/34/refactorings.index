@@ -1,0 +1,11 @@
+1597955114897	Rename type 'GSTest'
+1597955163831	Rename type 'ParkingLot'
+1597955716247	Delete element
+1597955835009	Rename method 'park'
+1597955919496	Rename field 'totalParkedCars'
+1597956061045	Rename field 'parking'
+1597956561636	Rename type 'Member'
+1597957137503	Rename local variable 'parking'
+1597957217682	Rename local variable 'member'
+1597957372323	Rename field 'inInspectionCarsTotal'
+1597957424482	Rename local variable 'member'

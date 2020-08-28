@@ -1,0 +1,35 @@
+package after;
+
+public class FileSystemManager {
+
+	public static void main(String[] args) {
+		// Creación Directorio1
+		Directory objDir1 = new Directory("SourceDirectory1");
+		Directory objDir2 = new Directory("DestinationDirectory1");
+
+		
+		FileProcess Thread_A = new FileProcess(objDir1, objDir2);
+		Thread_A.start();
+		FileProcess Thread_B = new FileProcess(objDir2,objDir1 );
+		Thread_B.start();
+	}
+}
+
+class FileProcess extends Thread {
+	Directory sourceDir;
+	Directory destinationDir;
+
+	public FileProcess(Directory sourceDir, Directory destinationDir) {
+		this.sourceDir = sourceDir;
+		this.destinationDir = destinationDir;
+	}
+
+	@Override
+	public void run() {
+
+		FileSysUtil fsUtil = new FileSysUtil();
+
+		System.out.println("Moving: "  +sourceDir + " to "+ destinationDir);
+		fsUtil.moveContents(sourceDir, destinationDir);
+	}
+}

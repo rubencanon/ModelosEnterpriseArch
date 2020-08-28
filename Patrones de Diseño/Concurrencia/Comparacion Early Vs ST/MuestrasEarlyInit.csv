@@ -1,0 +1,82 @@
+Muestra,Thread,MetodoTiempo
+Thread 1 is wrtting, Tiempo getFileLogger,256200 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,258100 nanosegundos
+Thread 1 is wrtting, Tiempo log,2744200
+Thread 2 is writting, Tiempo log,4915200
+Thread 1 is wrtting, Tiempo getFileLogger,473100 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,460300 nanosegundos
+Thread 1 is wrtting, Tiempo log,3479000
+Thread 2 is writting, Tiempo log,5655100
+Thread 1 is wrtting, Tiempo getFileLogger,486500 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,493900 nanosegundos
+Thread 1 is wrtting, Tiempo log,2910600
+Thread 2 is writting, Tiempo log,4592000
+Thread 1 is wrtting, Tiempo getFileLogger,516400 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,536100 nanosegundos
+Thread 1 is wrtting, Tiempo log,2693600
+Thread 2 is writting, Tiempo log,4813700
+Thread 1 is wrtting, Tiempo getFileLogger,528800 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,526400 nanosegundos
+Thread 1 is wrtting, Tiempo log,2802400
+Thread 2 is writting, Tiempo log,5190300
+Thread 1 is wrtting, Tiempo getFileLogger,434900 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,448100 nanosegundos
+Thread 1 is wrtting, Tiempo log,2800400
+Thread 2 is writting, Tiempo log,4599200
+Thread 1 is wrtting, Tiempo getFileLogger,501000 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,478100 nanosegundos
+Thread 1 is wrtting, Tiempo log,3481700
+Thread 2 is writting, Tiempo log,5801400
+Thread 2 is writting, Tiempo getFileLogger,482800 nanosegundos
+Thread 1 is wrtting, Tiempo getFileLogger,509100 nanosegundos
+Thread 2 is writting, Tiempo log,2799000
+Thread 1 is wrtting, Tiempo log,4385700
+Thread 1 is wrtting, Tiempo getFileLogger,560000 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,524200 nanosegundos
+Thread 1 is wrtting, Tiempo log,3255500
+Thread 2 is writting, Tiempo log,4927400
+Thread 2 is writting, Tiempo getFileLogger,537800 nanosegundos
+Thread 1 is wrtting, Tiempo getFileLogger,540800 nanosegundos
+Thread 2 is writting, Tiempo log,2855400
+Thread 1 is wrtting, Tiempo log,5134600
+Thread 1 is wrtting, Tiempo getFileLogger,492200 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,524900 nanosegundos
+Thread 1 is wrtting, Tiempo log,3418100
+Thread 2 is writting, Tiempo log,5072100
+Thread 1 is wrtting, Tiempo getFileLogger,533600 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,593100 nanosegundos
+Thread 1 is wrtting, Tiempo log,2967800
+Thread 2 is writting, Tiempo log,5393000
+Thread 1 is wrtting, Tiempo getFileLogger,572500 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,598100 nanosegundos
+Thread 1 is wrtting, Tiempo log,2987500
+Thread 2 is writting, Tiempo log,5212100
+Thread 2 is writting, Tiempo getFileLogger,479600 nanosegundos
+Thread 1 is wrtting, Tiempo getFileLogger,502000 nanosegundos
+Thread 2 is writting, Tiempo log,2824100
+Thread 1 is wrtting, Tiempo log,4622600
+Thread 2 is writting, Tiempo getFileLogger,523200 nanosegundos
+Thread 1 is wrtting, Tiempo getFileLogger,528400 nanosegundos
+Thread 2 is writting, Tiempo log,2939500
+Thread 1 is wrtting, Tiempo log,4809700
+Thread 1 is wrtting, Tiempo getFileLogger,476800 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,476000 nanosegundos
+Thread 1 is wrtting, Tiempo log,3206300
+Thread 2 is writting, Tiempo log,4859500
+Thread 1 is wrtting, Tiempo getFileLogger,287300 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,299700 nanosegundos
+Thread 2 is writting, Tiempo log,5880800
+Thread 1 is wrtting, Tiempo log,6092200
+Thread 1 is wrtting, Tiempo getFileLogger,250800 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,241600 nanosegundos
+Thread 1 is wrtting, Tiempo log,2903800
+Thread 2 is writting, Tiempo log,5096900
+Thread 2 is writting, Tiempo getFileLogger,265100 nanosegundos
+Thread 1 is wrtting, Tiempo getFileLogger,244600 nanosegundos
+Thread 2 is writting, Tiempo log,2916400
+Thread 1 is wrtting, Tiempo log,5274400
+Thread 1 is wrtting, Tiempo getFileLogger,260300 nanosegundos
+Thread 2 is writting, Tiempo getFileLogger,267800 nanosegundos
+Thread 1 is wrtting, Tiempo log,3439500
+Thread 2 is writting, Tiempo log,5181800
+

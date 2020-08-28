@@ -1,0 +1,20 @@
+1,100 AÑOS DE SOLEDAD, Libro
+1,CRIMEN Y CASTIGO, Libro
+1,ORGULLO Y PREJUICIO, Libro
+1,EL GRAN GATSBY, Libro
+1,Serie Top 10 por Tito Nieves, CD
+1,Alain Kounkou : Top Millenium, CD
+1,Ivan Rebroff y la orquesta Osipov, CD
+1,Top 10 CD Latino 1950-1955, CD
+1,DON QUIJOTE DE LA MANCHA, Libro
+1,Hong Kong Butcher, DVD
+1,Hong Kong Butcher, VHS
+0,EL GRAN GATSBY, Libro
+1,Trampa Infernal, DVD
+1,Hong Kong Butcher, VHS
+1,Serie Top 10 por Tito Nieves, CD
+1,EL GRAN GATSBY, Libro
+0,Serie Top 10 por Tito Nieves, CD
+1,Hong Kong Butcher, DVD
+1,Samurai Cop, DVD
+0,Hong Kong Butcher, VHS
